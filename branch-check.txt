@@ -1,0 +1,4 @@
+This file exists only in the feature/test-checkout branch.
+Branch: feature/test-checkout
+Created by: swastika0128
+Date: 2025-07-21
